@@ -1,4 +1,4 @@
-Step 1: I arranged some data of swiggy in CSV format. 
-        (I got two CSV files one contains order details and the second contains item details, the CSV files are also uploaded in the same folder for the reference).
-Step 2: I have imported the same CSV files in local SQL server and performed some business analysis 
+Step 1: I arranged some data of swiggy in csv format. 
+        (I got two csv files one contains order details and the second contains item details, the csv files are also uploaded in the same folder for the reference).
+Step 2: I have imported the same csv files in local SQL server and performed some business analysis 
         you can find the queries written for gaining insights from the data obtained in swiggy.sql script file uploaded in the same folder.
